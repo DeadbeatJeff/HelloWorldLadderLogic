@@ -1,0 +1,14 @@
+[
+  {
+    "pin": "2",
+    "pinType": "digitalInput",
+    "address": "%IX0.0",
+    "name": ""
+  },
+  {
+    "pin": "13",
+    "pinType": "digitalOutput",
+    "address": "%QX0.0",
+    "name": ""
+  }
+]
