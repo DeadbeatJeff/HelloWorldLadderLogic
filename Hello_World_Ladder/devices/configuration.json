@@ -1,7 +1,6 @@
 {
   "deviceBoard": "Arduino Uno",
   "communicationPort": "/dev/ttyACM0",
-  "runtimeIpAddress": "",
   "compileOnly": false,
   "communicationConfiguration": {
     "modbusRTU": {

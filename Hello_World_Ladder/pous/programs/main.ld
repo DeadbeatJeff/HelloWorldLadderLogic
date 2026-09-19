@@ -1223,9 +1223,10 @@ END_VAR
                 "value": "time"
               },
               "location": "",
+              "initialValue": "T#2s",
               "documentation": "",
               "debug": false,
-              "initialValue": "T#4s"
+              "id": "broken-VARIABLE_f395cdc0-1170-4537-84d5-4d2a6bc9f0a0"
             },
             "executionOrder": 0,
             "variant": "input",
@@ -1244,7 +1245,8 @@ END_VAR
             },
             "draggable": false,
             "selectable": true,
-            "deletable": false
+            "deletable": false,
+            "wrongVariable": true
           }
         },
         {
@@ -1409,9 +1411,10 @@ END_VAR
                 "value": "time"
               },
               "location": "",
+              "initialValue": "T#2s",
               "documentation": "",
               "debug": false,
-              "initialValue": "T#4s"
+              "id": "broken-VARIABLE_81a1b655-5043-4919-a620-6f89600ed85c"
             },
             "executionOrder": 0,
             "variant": "input",
@@ -1430,7 +1433,8 @@ END_VAR
             },
             "draggable": false,
             "selectable": true,
-            "deletable": false
+            "deletable": false,
+            "wrongVariable": true
           }
         },
         {

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "name": "Hellow_World_Ladder",
+    "name": "Hello_World_Ladder",
     "type": "plc-project"
   },
   "data": {
@@ -25,6 +25,7 @@
         ],
         "globalVariables": []
       }
-    }
+    },
+    "deletedPous": []
   }
 }
